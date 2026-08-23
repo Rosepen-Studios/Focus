@@ -23,7 +23,7 @@ The only thing you need to download this plugin is an internet connection and Ta
 1. Go to the [latest release](https://github.com/Rosepen-Studios/Focus/releases/latest) and download for the assets a file named <code>plugin.zip</code> (or click [here])
 2. Open Tasker and go to the plugins view (<code>⌘P</code> or click the puzzle icon on the bottom-left)
 3. Open the plugin folder (<code>⌘⇧O</code> or click the folder icon on the bottom-right)
-4. Extract the zip file you downloaded and place it's contents (<code>focus</code>) inside the <code>plugins</code> folder you opened on step 3
+4. Extract the zip file you downloaded and place it's contents (<code>Focus</code>) inside the <code>plugins</code> folder you opened on step 3
 5. Go back to Tasker and refresh the plugins view (<code>⌘⇧R</code> or click on the circling arrows icon on the bottom-right)
 6. On the left side of your screen, under "Disabled" you should see a plugin named "Focus". Click on the plugin's toggle to enable it
 
