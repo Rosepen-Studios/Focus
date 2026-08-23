@@ -33,7 +33,7 @@ If the plugin didn't appear when clicking refresh:
 2. On the bottom-left side of your screen there should be an error, displaying why the plugin didn't load
 Follow the guide based on what the error says:
 
-- <code>Couldn't load [plugin name] because it is not compatible with the current API version</code>: You most probably have the wrong version of Tasker installed
+- <code>Couldn't load [plugin name] because it is not compatible with the current API version</code>: You most likely have the wrong version of Tasker installed
 To fix:
 1. Go to the release page you downloaded the plugin from (if you followed the guide the page is [here](https://github.com/Rosepen-Studios/Focus/releases/latest))
 2. At the top it should say which versions of the Tasker API the plugin is compatible with
