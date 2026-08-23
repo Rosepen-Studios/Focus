@@ -1,2 +1,2 @@
 # Focus
-TTrack your time spent working and seperate it into projects, no second wasted!
+Track your time spent working and seperate it into projects, no second wasted!
