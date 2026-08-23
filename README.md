@@ -20,7 +20,7 @@ Tasker is a plugin powered productivity platform, where you shape your unique pr
 The only thing you need to download this plugin is an internet connection and Tasker 2.0 installed on your computer. You can download Tasker [here](https://github.com/Firepixel85/Tasker-Labs/releases/latest)
 
 ### Installation
-1. Go to the [latest release](https://github.com/Rosepen-Studios/Focus/releases/latest) and download for the assets a file named <code>plugin.zip</code> (or click [here])
+1. Go to the [latest release](https://github.com/Rosepen-Studios/Focus/releases/latest) and download for the assets a file named <code>plugin.zip</code> (or click [here](https://github.com/Rosepen-Studios/Focus/releases/download/0.1_1.0/plugin.zip))
 2. Open Tasker and go to the plugins view (<code>⌘P</code> or click the puzzle icon on the bottom-left)
 3. Open the plugin folder (<code>⌘⇧O</code> or click the folder icon on the bottom-right)
 4. Extract the zip file you downloaded and place it's contents (<code>Focus</code>) inside the <code>plugins</code> folder you opened on step 3
