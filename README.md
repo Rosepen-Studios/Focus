@@ -48,7 +48,7 @@ To fix:
 1. In the plugins view search for a plugin with the same name as the one you are trying to install (Focus)
 2. If you find it click on <code>Uninstall</code> and refresh the page
 
-- Any other error is caused by an internal plugin error you can't fix. Please contact as about it [here](https://github.com/Rosepen-Studios/Focus/issues)
+- Any other error is caused by an internal plugin error you can't fix. Please contact us about it [here](https://github.com/Rosepen-Studios/Focus/issues)
 
 # Screenshots
 <img width="1248" height="870" alt="Screenshot 2026-08-23 at 3 40 02 PM" src="https://github.com/user-attachments/assets/98a86ff9-5c91-4ba1-9a8a-1fa5e77c922a" />
